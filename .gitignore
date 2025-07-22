@@ -1,0 +1,27 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model files and data
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment folders
+env/
+venv/
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Ignore generated content
+generated_images/
+checkpoints/

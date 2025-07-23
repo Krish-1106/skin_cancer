@@ -92,8 +92,8 @@ The project uses the ISIC (International Skin Imaging Collaboration) dataset, su
 
 ## License
 
-[Add your license information here]
+[@krishnakulange]
 
 ## Contact
 
-[Add your contact information here]
+[krishnakulange@gmail.com]
